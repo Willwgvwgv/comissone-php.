@@ -1,0 +1,18 @@
+# System files
+.antigravity/
+.gemini/
+.config/
+.criptocns/
+.node_repl_history
+.redhat/
+Thumbs.db
+Desktop.ini
+
+# Temporary/Backup files
+*.zip
+*.sql
+_CODIGO_COMPLETO.txt
+
+# OS files
+.DS_Store
+*.swp
